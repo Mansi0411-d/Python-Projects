@@ -81,7 +81,7 @@ Classic game built with Python.
 
 ---
 
-### . Photo Slideshow
+### 6. Photo Slideshow
 A Python application to display images in a slideshow format.
 
 **Features**
