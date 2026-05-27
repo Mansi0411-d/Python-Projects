@@ -7,8 +7,14 @@ root=tk.Tk()
 root.title("image Slideshow Viewer=")
 # list of image path..
 image_paths=[
-    r" #path of the picture....",
-    r" path of another pictures..."
+    r"C:\Users\Mansi\OneDrive\Pictures\Screenshots\Saved Pictures\ewa's craft.paint",
+    r"C:\Users\Mansi\OneDrive\Pictures\Screenshots\Screenshot 2026-03-24 195517.png",
+    r"C:\Users\Mansi\OneDrive\Pictures\Screenshots\Untitled.png",
+    r"C:\Users\Mansi\OneDrive\Pictures\Screenshots\Screenshot 2026-03-24 195517.png",
+    r"C:\Users\Mansi\OneDrive\Pictures\Screenshots\Screenshot 2026-05-25 185515.png",
+    r"C:\Users\Mansi\OneDrive\Pictures\Screenshots\Untitled.png",
+    r"C:\Users\Mansi\OneDrive\Pictures\Screenshots\flat-lay-photos.webp",
+    r"C:\Users\Mansi\OneDrive\Pictures\Screenshots\Saved Pictures\calming-gradient-waves-wallpaper-free-photo.jpg"
 ]
 # resize iimages to 1080*1080
 image_size=(100,100)
